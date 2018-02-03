@@ -109,13 +109,13 @@ sub quick_insert {
 1;
 __END__
 
+=head1 SUPPORT
+ 
+Open an issue or Pull Request on GitHub: L<https://github.com/sonntagd/DBIx-Core-Handle-ReturnValue>.
+ 
 =head1 AUTHOR
  
 Dominic Sonntag <dominic@s5g.de>
- 
-=head1 ACKNOWLEDGEMENTS
- 
-See L<Dancer::Plugin::Database/ACKNOWLEDGEMENTS>
  
 =head1 SEE ALSO
  
